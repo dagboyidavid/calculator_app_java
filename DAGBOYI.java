@@ -1,5 +1,5 @@
 public class DAGBOYI{
-//Dagboyi David Onuche-Ojo U23ME1028 Mechanicak Engineering 
+//Dagboyi David Onuche-Ojo U23ME1028 Mechanical Engineering 
     public int add(int a, int b) {
         return a + b;
     }
